@@ -1,9 +1,12 @@
 # 👨‍💻 ADRIÁN SÁNCHEZ
 ### Desarrollador de Software Junior | Ciberseguridad & Pentesting
 
-📍 España  
+📍 España
+
 🐧 I use Arch btw
+
 🔗 LinkedIn: https://www.linkedin.com/in/adrian-s%C3%A1nchez-torres-398564396/
+
 🧠 HTB Academy / HackMyVM
 
 ---

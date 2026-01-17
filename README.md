@@ -72,7 +72,7 @@ Nmap, NSE (Lua), Bash, Python
 - Normalizar señales de red para inferencia de reglas  
 - Automatizar análisis repetibles y escalables
 
-🔗 **Repositorio:** Work in progress 😉
+🔗 **Repositorio:** https://github.com/adriansantor/nmap-fw-suite/
 
 ---
 
